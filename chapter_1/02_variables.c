@@ -1,4 +1,4 @@
-// rules for variable
+// rules for variablies in c
 
 #include<stdio.h>
 int main()
