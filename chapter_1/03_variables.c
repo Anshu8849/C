@@ -10,3 +10,4 @@ printf("The values a,b and c is:%d %f %c \n",a,b,c);
 	return 0;
 }
 
+
