@@ -2,7 +2,7 @@
 
 //(a)using hard coded inputes
 
-/*
+
 #include<stdio.h>
 int main()
 {
@@ -21,10 +21,11 @@ printf("The area of rectangle is:%d\n",length*breadth);
 	return 0;
 
 }
-*/
+
 
 //(b)using inputs supplied by user
 
+\*
 #include<stdio.h>
 int main()
 {
@@ -38,7 +39,7 @@ printf("The area of rectangle is:%d\n",length * breadth);
 
 }
 
-
+*/
 
 
 
