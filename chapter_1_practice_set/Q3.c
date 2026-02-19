@@ -5,12 +5,16 @@
 int main()
 {
 
-	float = celsius;
+	float celsius;
 	
 printf("Enter a value of celsius:\n");
-scanf("%f\n",&celsius);
+scanf("%f",&celsius);
 
-printf("\nfahrenheit value is:%f\n"celsius,F=(celsius *9/5)+32);
+	float f;
+
+	f = (celsius*(9.0/5.0) + 32.0);
+
+printf("the value of fahrenheit is :%f\n",f);
 
 	return 0;
 }
