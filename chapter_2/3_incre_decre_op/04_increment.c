@@ -1,3 +1,5 @@
+//post-increment inside printf()
+
 #include<stdio.h>
 int main()
 {
